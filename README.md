@@ -10,3 +10,17 @@
 ![](pic/策略模式.png)
 
 [参考代码](src/main/java/cn/itcast/strategy)
+
+## 2. 观察者模式
+
+### 2.1 自定义
+
+![](pic/观察者1.png)
+
+[参考代码](src/main/java/cn/itcast/observer/customer)
+
+### 2.2 JDK内置
+
+![](pic/观察者2.png)
+
+[参考代码](src/main/java/cn/itcast/observer/jdk)
