@@ -30,4 +30,5 @@
 
 ![](pic/装饰者模式.png)
 
-[参考代码](src\main\java\cn\itcast\decorator)
+[参考代码](src/main/java/cn/itcast/decorator)
+
